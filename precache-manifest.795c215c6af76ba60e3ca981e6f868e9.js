@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ClickyBird/static/js/runtime~main.94f72689.js"
   },
   {
-    "revision": "8f353b5111ca9ff22390",
-    "url": "/ClickyBird/static/js/main.8f353b51.chunk.js"
+    "revision": "0c887669ba8339c4a958",
+    "url": "/ClickyBird/static/js/main.0c887669.chunk.js"
   },
   {
     "revision": "7644a9751e730a17c6a5",
     "url": "/ClickyBird/static/js/1.7644a975.chunk.js"
   },
   {
-    "revision": "8f353b5111ca9ff22390",
+    "revision": "0c887669ba8339c4a958",
     "url": "/ClickyBird/static/css/main.bb761dfc.chunk.css"
   },
   {
-    "revision": "54c25f3b36717272243ae71bac290dc9",
+    "revision": "edddc3bedd7f6040410b9115d3e3cdb4",
     "url": "/ClickyBird/index.html"
   }
 ];

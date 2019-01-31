@@ -1,13 +1,13 @@
 {
   "main.css": "/ClickyBird/static/css/main.bb761dfc.chunk.css",
-  "main.js": "/ClickyBird/static/js/main.8f353b51.chunk.js",
-  "main.js.map": "/ClickyBird/static/js/main.8f353b51.chunk.js.map",
+  "main.js": "/ClickyBird/static/js/main.0c887669.chunk.js",
+  "main.js.map": "/ClickyBird/static/js/main.0c887669.chunk.js.map",
   "static/js/1.7644a975.chunk.js": "/ClickyBird/static/js/1.7644a975.chunk.js",
   "static/js/1.7644a975.chunk.js.map": "/ClickyBird/static/js/1.7644a975.chunk.js.map",
   "runtime~main.js": "/ClickyBird/static/js/runtime~main.94f72689.js",
   "runtime~main.js.map": "/ClickyBird/static/js/runtime~main.94f72689.js.map",
   "static/css/main.bb761dfc.chunk.css.map": "/ClickyBird/static/css/main.bb761dfc.chunk.css.map",
   "index.html": "/ClickyBird/index.html",
-  "precache-manifest.8c9ca3abd281485a14a7875de0e7e415.js": "/ClickyBird/precache-manifest.8c9ca3abd281485a14a7875de0e7e415.js",
+  "precache-manifest.795c215c6af76ba60e3ca981e6f868e9.js": "/ClickyBird/precache-manifest.795c215c6af76ba60e3ca981e6f868e9.js",
   "service-worker.js": "/ClickyBird/service-worker.js"
 }
