@@ -75,7 +75,7 @@ class App extends Component {
  
     return (
       <Wrapper>
-        <Title>Bird Memory Game </Title>
+        <Title>Bird Memory Game- Don't click the same bird twice! </Title>
         <Title>Score: {this.state.score} Top Score: {this.state.topscore}</Title>
         
         {this.state.friends.map(friend => (
