@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Indigo Bunting",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/67385731-480px.jpg",
+    "occupation": "Passerina cyanea",
+    "location": "East Half of North America",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "name": "Sora",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/33180661-480px.jpg",
+    "occupation": "Porzana carolina",
+    "location": "Wetlands of North America",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "name": "Common Yellowthroat",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/66117571-480px.jpg",
+    "occupation": "Geothlypis trichas",
+    "location": "North America",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "name": "Cactus Wren",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/68034441-480px.jpg",
+    "occupation": "Campylorhynchus brunneicapillus",
+    "location": "Southwestern Deserts of North America",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "name": "Western Bluebird",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/67472541-480px.jpg",
+    "occupation": "Sialia mexicana",
+    "location": "Western North America",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "name": "Anna's Hummingbird",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/66120941-480px.jpg",
+    "occupation": "Calypte anna",
+    "location": "West Coast North America",
+    "selected": false
+  },
+  {
+    "id": 7,
+    "name": "Black-Capped Chickadee",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/60411301-480px.jpg",
+    "occupation": "Poecile atricapillus",
+    "location": "Northern Half of North America",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "name": "Belted Kingfisher",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/65764731-480px.jpg",
+    "occupation": "Megaceryle alcyon",
+    "location": "North America",
+    "selected": false
+  },
+  {
+    "id": 9,
+    "name": "American Kestrel",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/70583881-480px.jpg",
+    "occupation": "Falco sparverius",
+    "location": "North America",
+    "selected": false
+  },
+  {
+    "id": 10,
+    "name": "American Goldfinch",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/63737371-480px.jpg",
+    "occupation": "Spinus tristis",
+    "location": "North America",
+    "selected": false
+  },
+  {
+    "id": 11,
+    "name": "Red-Breasted Nuthatch",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/68040881-480px.jpg",
+    "occupation": "Sitta canadensis",
+    "location": "North America",
+    "selected": false
+  },
+  {
+    "id": 12,
+    "name": "Painted Bunting",
+    "image": "https://d1ia71hq4oe7pn.cloudfront.net/photo/67385111-480px.jpg",
+    "occupation": "Passerina ciris",
+    "location": "Southern US and Central America",
+    "selected": false
+  }
+]
