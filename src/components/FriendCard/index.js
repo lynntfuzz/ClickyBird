@@ -15,9 +15,9 @@ function FriendCard(props) {
           <li>
             <strong>Species:</strong> {props.occupation}
           </li>
-          <li>
+          {/* <li>
             <strong>Selected:</strong> {props.selected ? "True" : "False"}
-          </li>
+          </li> */}
         </ul>
       </div>
 
